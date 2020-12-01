@@ -1,0 +1,10 @@
+﻿  SAOD8.cpp
+C:\Users\USER\source\repos\SAOD8\SAOD8\SAOD8.cpp(8,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\USER\source\repos\SAOD8\SAOD8\SAOD8.cpp(33,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\USER\source\repos\SAOD8\SAOD8\SAOD8.cpp(36,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+C:\Users\USER\source\repos\SAOD8\SAOD8\Source.cpp(23,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\USER\source\repos\SAOD8\SAOD8\Source.cpp(31,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\USER\source\repos\SAOD8\SAOD8\Source.cpp(73,14): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  SAOD8.vcxproj -> C:\Users\USER\source\repos\SAOD8\Debug\SAOD8.exe
